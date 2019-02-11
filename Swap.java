@@ -4,7 +4,7 @@
 public class Swap {
     public static  void  main(String args[]){
 
-        int x = 43;
+        int x = 22;
         int y = 20;
 
         System.out.println("x is " + x);
@@ -13,6 +13,8 @@ public class Swap {
         System.out.println("swapping...");
 
         // swapping
+
+
 
         System.out.println("x is " + x);
         System.out.println("y is " + y);
